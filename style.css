@@ -91,6 +91,11 @@ section:nth-child(3){
   
 }
 
+section:nth-child(4){
+    background-image: linear-gradient(to top, #0f5715 0%, #97d9e1 100%);
+    color: #ffff;
+}
+
 .contenedor-texto li{
     text-align: center;
     padding-top: 0px;
