@@ -9,8 +9,10 @@
 
 <!--animaciones-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    
+<!--estilos-->
+    <link rel="stylesheet" href="css/estilo.css">
 
-    <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
@@ -25,9 +27,9 @@
         <a class="boton" href="#sec2"> +INFORMACIÒN </a>
     </div>
     <img src="IMGS/LOGO2.png" alt="">
-     </section>
+    </section>
 
-  
+
     <section id="sec2">
     <div class="contenedor-texto">
         <h2 class="animate__animated animate__bounceIn">REQUISITOS</h2>
